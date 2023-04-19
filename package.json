@@ -18,5 +18,19 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "description": "An example app",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PrimeTimeTran/auto-demo.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "Loi Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimeTimeTran/auto-demo/issues"
+  },
+  "homepage": "https://github.com/PrimeTimeTran/auto-demo#readme"
 }
