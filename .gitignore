@@ -53,3 +53,7 @@ yarn-error.log
 .expo/
 web-build/
 dist/
+.yarn
+.pnp.cjs
+.pnp.loader.mjs
+.vscode
