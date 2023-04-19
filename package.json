@@ -1,6 +1,6 @@
 {
   "name": "autoauto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "start": "expo start --dev-client",
@@ -9,7 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "autoauto": "^1.0.0",
     "expo": "~48.0.11",
     "expo-splash-screen": "~0.18.1",
     "expo-status-bar": "~1.4.4",
